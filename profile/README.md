@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/🌐_View_Landing_Page-000?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/mirrulations">
+<a href="https://github.com/orgs/mirrulations/repositories">
   <img src="https://img.shields.io/badge/💻_GitHub_Organization-181717?style=for-the-badge&logo=github"/>
 </a>
 
